@@ -105,6 +105,12 @@ a:hover {
 .contact {
     width: 100%;
 }
+
+.contactinfo {
+    padding-left: 30%;
+    padding-bottom: 20px;
+}
+
 .form-style-1 {
     margin:10px auto;
     max-width: 100%;
